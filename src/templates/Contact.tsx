@@ -155,7 +155,7 @@ const Contact = () => {
 
           <iframe
             title="Harvely Company"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.1190739132808!2d29.232397274485354!3d-1.6722633361687547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dd0500176cd2e7%3A0x50d3fa2e5ae44fd1!2sHarvely%20Company!5e0!3m2!1sen!2scd!4v1726748283054!5m2!1sen!2scd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.4199329913113!2d27.462137311264346!3d-11.664622788495553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19723f67d69a9dd9%3A0x2d04a12d5d4c8107!2sCollege%20Ufundi!5e0!3m2!1sen!2scd!4v1745516475564!5m2!1sen!2scd"
             style={{ border: 0 }}
             className="h-[800px] w-full rounded-[5px] md:h-auto md:w-3/5"
           ></iframe>

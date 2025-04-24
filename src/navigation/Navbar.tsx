@@ -40,7 +40,9 @@ const Navbar = () => {
     >
       <div className="flex items-center justify-between  p-4 md:px-8 lg:px-16 xl:px-24 2xl:px-32">
         <Link href="/" className="flex items-center text-xl font-bold">
-          <h1 className="text-[24px] font-bold text-white">COLLEGE UFUNDI</h1>
+          <h1 className="text-[18px] font-bold text-white md:text-[24px]">
+            COLLEGE UFUNDI
+          </h1>
         </Link>
         <div className=" flex w-1/2 justify-end gap-6">
           <div className="hidden items-center space-x-6 md:flex">

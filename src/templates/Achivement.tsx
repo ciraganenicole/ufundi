@@ -41,7 +41,7 @@ const Achivement: React.FC = () => {
 
       <div className="relative z-10 flex h-full flex-col items-center justify-center px-4 text-center">
         <h2 className="mb-[30px] text-[26px] uppercase leading-[1.3636] tracking-wider md:mb-[70px]">
-          Les réalisations de nos enseignants et élèves
+          NOS STATISTIQUES
         </h2>
 
         <section className="grid grid-cols-1 gap-8 text-center md:grid-cols-4 md:gap-32">
